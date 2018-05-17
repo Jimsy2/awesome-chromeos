@@ -1,6 +1,6 @@
-# awesome-chromeos
+# Awesome ChromeOS
 
-> The best (open source) web/Android/ChromeOS solutions for every aspect of daily life.
+The best ChromeOS solutions (preferably open source) for ....
 
 ## Games
 
@@ -27,6 +27,7 @@
 - [Cryptpad](https://cryptpad.fr/) With CryptPad, you can make quick collaborative documents for taking notes and writing down ideas together.
 - [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) View and edit Microsoft Word, Excel, and PowerPoint files with Google Docs, Sheets, and Slides.
 - [Caret](https://chrome.google.com/webstore/detail/caret/fljalecfjciodhpcledpamjachpmelml?hl=en) Caret is a graphical text editor modeled on Sublime Text, running completely offline (no Internet connection required) and capable of opening and saving files anywhere on your hard drive.
+- [Text.app](https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg) is a simple offline text editor for Chrome OS and Chrome. It's fast, lets you open multiple files at once, has syntax highlighting, and saves to Google Drive on Chrome OS. File bugs at [GitHub](https://github.com/GoogleChrome/text-app/issues). Version 0.5.68 (2015-05-28)
 
 ## Style
 
